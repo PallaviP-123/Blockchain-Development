@@ -1,0 +1,12 @@
+C:\Users\palla\source\repos\First App\First App\obj\Debug\First App.csproj.AssemblyReference.cache
+C:\Users\palla\source\repos\First App\First App\obj\Debug\First App.csproj.SuggestedBindingRedirects.cache
+C:\Users\palla\source\repos\First App\First App\obj\Debug\First_App.Form1.resources
+C:\Users\palla\source\repos\First App\First App\obj\Debug\First_App.Properties.Resources.resources
+C:\Users\palla\source\repos\First App\First App\obj\Debug\First App.csproj.GenerateResource.cache
+C:\Users\palla\source\repos\First App\First App\obj\Debug\First App.csproj.CoreCompileInputs.cache
+C:\Users\palla\source\repos\First App\First App\bin\Debug\First App.exe.config
+C:\Users\palla\source\repos\First App\First App\bin\Debug\First App.exe
+C:\Users\palla\source\repos\First App\First App\bin\Debug\First App.pdb
+C:\Users\palla\source\repos\First App\First App\obj\Debug\First App.csproj.CopyComplete
+C:\Users\palla\source\repos\First App\First App\obj\Debug\First App.exe
+C:\Users\palla\source\repos\First App\First App\obj\Debug\First App.pdb
